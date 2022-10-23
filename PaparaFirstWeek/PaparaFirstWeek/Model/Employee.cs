@@ -13,5 +13,7 @@ namespace PaparaFirstWeek.Model
         public int Age { get; set; }
         public string Department { get; set; } 
         public IFormFile ProfilePicture { get; set; }
+
+
     }
 }
